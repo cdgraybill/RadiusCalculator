@@ -6,21 +6,23 @@ namespace RadiusCalculator
     {
         static void Main(string[] args)
         {
-            Intro();
-        }
+            string askForRadius = "Let's find the area of a circle. What's the radius?";
+            TalkToUser(askForRadius);
+            double area = double.Parse(Console.ReadLine());
 
-        public static void Intro()
-        {
-            Console.WriteLine("Let't find the area of a circle! All values are in cm.");
-            Console.WriteLine("What is the radius of the circle?");
-            Console.ReadLine();
-
+            area = FindArea(area);
+            Console.WriteLine($"The area of the circle is {area}.");
         }
 
         public static double FindArea(double radius)
         {
-            double answer = Math.PI * radius;
+            double answer = Math.PI * (radius * radius);
             return answer; 
+        }
+
+        public static void TalkToUser(string dialouge)
+        {
+            Console.WriteLine(dialouge);
         }
     }
 }
