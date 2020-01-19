@@ -1,0 +1,11 @@
+C:\Users\Cam\Documents\Codes\TrueCoders\CSharpProjects\RadiusCalculator\RadiusCalculator\bin\Debug\netcoreapp3.1\RadiusCalculator.exe
+C:\Users\Cam\Documents\Codes\TrueCoders\CSharpProjects\RadiusCalculator\RadiusCalculator\bin\Debug\netcoreapp3.1\RadiusCalculator.deps.json
+C:\Users\Cam\Documents\Codes\TrueCoders\CSharpProjects\RadiusCalculator\RadiusCalculator\bin\Debug\netcoreapp3.1\RadiusCalculator.runtimeconfig.json
+C:\Users\Cam\Documents\Codes\TrueCoders\CSharpProjects\RadiusCalculator\RadiusCalculator\bin\Debug\netcoreapp3.1\RadiusCalculator.runtimeconfig.dev.json
+C:\Users\Cam\Documents\Codes\TrueCoders\CSharpProjects\RadiusCalculator\RadiusCalculator\bin\Debug\netcoreapp3.1\RadiusCalculator.dll
+C:\Users\Cam\Documents\Codes\TrueCoders\CSharpProjects\RadiusCalculator\RadiusCalculator\bin\Debug\netcoreapp3.1\RadiusCalculator.pdb
+C:\Users\Cam\Documents\Codes\TrueCoders\CSharpProjects\RadiusCalculator\RadiusCalculator\obj\Debug\netcoreapp3.1\RadiusCalculator.csprojAssemblyReference.cache
+C:\Users\Cam\Documents\Codes\TrueCoders\CSharpProjects\RadiusCalculator\RadiusCalculator\obj\Debug\netcoreapp3.1\RadiusCalculator.AssemblyInfoInputs.cache
+C:\Users\Cam\Documents\Codes\TrueCoders\CSharpProjects\RadiusCalculator\RadiusCalculator\obj\Debug\netcoreapp3.1\RadiusCalculator.AssemblyInfo.cs
+C:\Users\Cam\Documents\Codes\TrueCoders\CSharpProjects\RadiusCalculator\RadiusCalculator\obj\Debug\netcoreapp3.1\RadiusCalculator.dll
+C:\Users\Cam\Documents\Codes\TrueCoders\CSharpProjects\RadiusCalculator\RadiusCalculator\obj\Debug\netcoreapp3.1\RadiusCalculator.pdb
